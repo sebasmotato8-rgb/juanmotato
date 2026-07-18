@@ -1,105 +1,120 @@
 # Juan Sebastián Motato Amariles
 
-**Aprendiz en Análisis y Desarrollo de Software — SENA**
-Cali, Valle del Cauca, Colombia
+**Aprendiz en Análisis y Desarrollo de Software | SENA | Cali, Colombia**
 
-📧 [juan_smotatoa@soy.sena.edu.co](mailto:juan_smotatoa@soy.sena.edu.co) · 📷 [Instagram @juanmotato](https://instagram.com/juanmotato) · 💼 [LinkedIn](https://linkedin.com/in/juanmotato) · 🐙 [GitHub](https://github.com/sebasmotato8-rgb)
-
----
-
-## Perfil profesional
-
-Aprendiz en Análisis y Desarrollo de Software del SENA, con interés en el desarrollo web, pruebas de software y programación. Me destaco por mi disciplina, responsabilidad y compromiso en cada proyecto. Busco aportar valor a la empresa mientras fortalezco mis conocimientos y adquiero experiencia en el campo tecnológico.
+📧 [juan_smotatoa@soy.sena.edu.co](mailto:juan_smotatoa@soy.sena.edu.co) | 🔗 [Portafolio](https://sebasmotato8-rgb.github.io/juanmotato/portfolio.html) | 📷 [@juanmotato](https://instagram.com/juanmotato) | 💼 [LinkedIn](https://linkedin.com/in/juanmotato)
 
 ---
 
-## Proyectos destacados
+## 👨‍💻 Perfil Profesional
 
-### 🛍️ Cinora — [cinora.shop](https://cinora.shop) · En operación
+Aprendiz en Análisis y Desarrollo de Software del SENA, con interés en desarrollo web, pruebas de software y programación. Me destaco por disciplina, responsabilidad y compromiso en cada proyecto. Busco aportar valor a la empresa mientras fortalezco mis conocimientos y adquiero experiencia en el campo tecnológico.
 
-Tienda en línea especializada en la venta del Mini Proyector HY320 en el mercado colombiano, construida sobre Shopify con un tema Liquid personalizado.
+**Código de ficha SENA:** 3450308 | **Inicio:** 05/03/2026 | **Finalización:** 31/03/2028
 
-- Integración de pagos: PayPal y Mercado Pago
-- Fulfillment y sincronización de inventario automatizados vía Dropi
-- Diseño responsive dark/purple, mobile-first, con SEO on-page
-- Páginas legales (privacidad, términos, reembolsos) compatibles con RGPD
+---
 
-**Stack:** Shopify · Liquid · HTML5 · CSS3 · JavaScript
+## 🎯 Proyectos Destacados
 
-📄 Caso de estudio completo → [CINORA_CASE_STUDY.md](./CINORA_CASE_STUDY.md)
+### 1. Cinora — Ecommerce Mini Proyector HY320
+**Estado:** En operación | **URL:** [cinora.shop](https://cinora.shop)
 
-### ⚡ Centro de Comando Personal
+**Stack:** Shopify, Liquid, HTML/CSS, PayPal, Mercado Pago, Dropi
 
-Aplicación de escritorio local (Python + tkinter) para gestionar tareas, trackear tiempo y organizar ideas de contenido. Corre 100% local, sin internet ni dependencias de pago — todos los datos se guardan en archivos JSON.
+Tienda en línea especializada en venta de Mini Proyector HY320 en Colombia. Integración completa de pagos, inventario y cumplimiento de órdenes.
 
-- **Tareas**: creación, edición, categorías (SENA, Cinora, Contenido, Personal) y prioridades
-- **Time Tracker**: cronómetro por categoría con reporte semanal de horas (gráfico dibujado con `tkinter.Canvas`)
-- **Ideas**: tablero kanban (Idea → Grabando → Editando → Publicado)
-- Persistencia independiente por módulo en archivos JSON locales
+**Logros:**
+- Diseño personalizado basado en Shopify Dawn theme
+- Múltiples métodos de pago integrados (PayPal, Mercado Pago)
+- Fulfillment automático con Dropi (sin manejo físico)
+- Páginas legales completas (términos, privacidad, RGPD)
+- Optimización SEO on-page
 
-**Stack:** Python · tkinter · JSON
+**[→ Ver análisis técnico completo](./CINORA_CASE_STUDY.md)**
 
-### 💰 FamiliaFinanzas
+---
 
-Aplicación web (PWA) para gestión de finanzas familiares: dashboard, presupuesto, control de deudas, alertas, simulador de ahorro y visualización de datos con gráficos.
+### 2. Centro de Comando Personal
+**Estado:** En desarrollo | **Stack:** Python, tkinter
 
-- Múltiples vistas: dashboard, presupuesto, deudas, alertas, categorías, configuración
-- Gráficos interactivos con Chart.js (barras, dona, presupuesto, simulación)
-- Datos almacenados localmente (localStorage) con exportación/respaldo en JSON
+Aplicación de escritorio local para gestión de tareas, seguimiento de tiempo y organización de ideas de contenido. Corre 100% local, sin dependencias externas.
+
+**Características:**
+- Gestión de tareas con categorías y prioridades
+- Time tracker con reporte semanal por categoría
+- Tablero kanban de ideas de contenido
+- Persistencia local en archivos JSON
+
+---
+
+### 3. FamiliaFinanzas — PWA de Gestión Financiera
+**Estado:** Completado | **Stack:** HTML5, CSS3, JavaScript, Chart.js
+
+PWA para gestión de finanzas familiares, con soporte de formato de moneda colombiana (COP).
+
+**Características:**
+- Dashboard, presupuesto, deudas, alertas y simulador de ahorro
+- Gráficos interactivos con Chart.js
+- Formato de entrada numérica en pesos colombianos (COP)
 - Modo oscuro nativo
-
-**Stack:** HTML5 · CSS3 · JavaScript · Chart.js · localStorage
-
----
-
-## Educación
-
-**Tecnólogo en Análisis y Desarrollo de Software**
-SENA — Centro de Diseño Tecnológico Industrial, Cali (Valle del Cauca)
-Marzo 2026 – Marzo 2028 · En curso (etapa lectiva)
-
-**Bachiller Académico**
-Instituto Leopoldo Pizarro González
-Graduado: 6 de diciembre de 2024
-
-## Certificaciones
-
-- **Marketing Digital** — SENA, Formación Complementaria Virtual (25 mayo 2026 – 30 junio 2026) · Certificado
+- Progressive Web App (soporte offline)
+- Exportación/respaldo de datos en JSON
 
 ---
 
-## Skills
+## 🎓 Educación
 
-**Lenguajes y programación**
-Python · HTML5 · CSS3 · JavaScript · Lógica de programación
+### Tecnólogo en Análisis y Desarrollo de Software
+**SENA** — Centro de Diseño Tecnológico Industrial, Cali
+*Inicio: 05/03/2026 | Finalización: 31/03/2028*
 
-**Herramientas y plataformas**
-Git / GitHub · Shopify (Liquid) · Ofimática (Word, Excel, PowerPoint)
+**Competencias técnicas:**
+- Lógica de programación y desarrollo de software
+- Conocimientos iniciales en pruebas de software
+- Herramientas ofimáticas (Word, Excel, PowerPoint)
 
-**Ecommerce**
-Integración de pagos (PayPal, Mercado Pago) · Fulfillment (Dropi)
+**Competencias blandas:**
+- Responsabilidad y disciplina
+- Trabajo en equipo y colaboración
+- Comunicación asertiva
+- Aprendizaje rápido
 
-**En formación**
-Pruebas de software · Desarrollo web
+### Certificación — Marketing Digital
+SENA, Formación Complementaria Virtual (25 mayo 2026 – 30 junio 2026) · Certificado
 
----
-
-## Logros académicos y personales
-
-- Buen desempeño académico en informática y matemáticas durante la educación media.
-- Participación en proyectos escolares de tecnología y desarrollo digital.
-- Reconocimiento por disciplina y compromiso en actividades académicas.
-
----
-
-## Contacto
-
-¿Buscas un aprendiz SENA para etapa práctica o quieres colaborar en un proyecto? Escríbeme.
-
-- 📧 [juan_smotatoa@soy.sena.edu.co](mailto:juan_smotatoa@soy.sena.edu.co)
-- 📷 [Instagram @juanmotato](https://instagram.com/juanmotato)
-- 💼 [LinkedIn](https://linkedin.com/in/juanmotato)
+### Bachiller Académico
+**Instituto Leopoldo Pizarro González, Cali**
+Graduado: 06 de diciembre de 2024
 
 ---
 
-*Portafolio interactivo: [portfolio.html](./portfolio.html)*
+## 💻 Skills & Tecnologías
+
+**Lenguajes:** Python · HTML5 · CSS3 · JavaScript
+
+**Herramientas:** Git / GitHub · Shopify (Liquid) · Chart.js · Ofimática (Word, Excel, PowerPoint)
+
+**Ecommerce:** PayPal · Mercado Pago · Dropi (fulfillment) · SEO on-page
+
+---
+
+## 🏆 Logros Académicos y Personales
+
+- Buen desempeño académico en informática y matemáticas durante la educación media
+- Participación en proyectos escolares de tecnología y desarrollo digital
+- Lanzamiento y operación de un ecommerce con integración de pagos real
+- Reconocimiento por disciplina y compromiso en actividades académicas
+
+---
+
+## 📞 Contacto
+
+- **Email:** [juan_smotatoa@soy.sena.edu.co](mailto:juan_smotatoa@soy.sena.edu.co)
+- **Portafolio:** https://sebasmotato8-rgb.github.io/juanmotato/portfolio.html
+- **GitHub:** https://github.com/sebasmotato8-rgb
+- **Instagram:** [@juanmotato](https://instagram.com/juanmotato)
+- **LinkedIn:** https://linkedin.com/in/juanmotato
+
+---
+
+**Código de ficha SENA:** 3450308 | **Última actualización:** Julio 2026
